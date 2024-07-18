@@ -20,5 +20,9 @@
 <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 
+<img align="center" alt="github" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
+
+<h3>###Contato ☎️</h3>
+gabriel.cage@gmail.com
